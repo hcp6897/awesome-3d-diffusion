@@ -106,7 +106,6 @@ If you consider our paper or list useful, please cite our paper:
 - [PlacidDreamer: Advancing Harmony in Text-to-3D Generation](https://arxiv.org/abs/2407.13976), Huang et al., Arxiv 2024
 - [DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow](https://arxiv.org/abs/2408.05008), Li et al., Arxiv 2024
 - [ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation](https://arxiv.org/pdf/2407.02040), Ma et al., ECCV 2024
-- [Vista3D: Unravel the 3D Darkside of a Single Image](https://arxiv.org/pdf/2409.12193), Shen et al., ECCV 2024
 - [SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting](https://arxiv.org/abs/2408.13711), Li et al., Arxiv 2024
 
 ### Compositional or Scene Generation
@@ -161,6 +160,7 @@ If you consider our paper or list useful, please cite our paper:
 - [GECO: Generation Image-to-3D within a Second](https://arxiv.org/abs/2405.20327), Wang et al., Arxiv 2024
 - [Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation](https://arxiv.org/pdf/2405.20669), Yang et al., Arxiv 2024
 - [Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image](https://arxiv.org/pdf/2405.20343), Wu et al., Arxiv 2024
+- [Vista3D: Unravel the 3D Darkside of a Single Image](https://arxiv.org/pdf/2409.12193), Shen et al., ECCV 2024
 
 ### Human and Animal
 - [ScoreHMR: Score-Guided Diffusion for 3D Human Recovery](https://github.com/statho/ScoreHMR), Stathopoulos et al., CVPR 2024
